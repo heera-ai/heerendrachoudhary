@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Heera,
+
+- 🔭 Currently working on applications of Data Science and Artificial Intelligence in the Insurance domain.
+- 🌱 Currently learning MLOps.
+- 👯 Looking to collaborate on Computer Vision and Natural Language Processing.
+- 🤔 Looking for help with MLOps.
+- 📫 How to reach me: heeralallegha@gmail.com Or +91 9649488704
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=heerendrachoudhary&show_icons=true&theme=nightowl">
 
 <!--
 **heerendrachoudhary/heerendrachoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
