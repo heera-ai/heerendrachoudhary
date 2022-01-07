@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heerendrachoudhary&label=Views&color=blue&style=plastic" alt="heera" /> </p>
-**Hi there 👋, I am Heera Lal
+
+Hi there 👋, I am Heera Lal
 
 
 - 🔭 Currently working on applications of Data Science and Artificial Intelligence in the Insurance domain.
@@ -18,8 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<a href="https://github.com/heerendrachoudhary/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heerendrachoudhary&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="Heera's github stats" /></a>
-<a href="https://github.com/heerendrachoudhary/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heerendrachoudhary&layout=compact&theme=calm&hide_border=true" /></a>
+<a href="https://github.com/heerendrachoudhary/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heerendrachoudhary&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="Heera's github stats" /></a> | <a href="https://github.com/heerendrachoudhary/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heerendrachoudhary&layout=compact&theme=calm&hide_border=true" /></a>
 
 <!--
 **heerendrachoudhary/heerendrachoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
