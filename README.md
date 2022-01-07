@@ -8,6 +8,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=heerendrachoudhary&show_icons=true&theme=nightowl">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heerendrachoudhary&layout=compact)](https://github.com/heerendrachoudhary/github-readme-stats)
 
 <!--
 **heerendrachoudhary/heerendrachoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
